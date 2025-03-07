@@ -1,4 +1,4 @@
-# linear-search-cuda
+# Linear-Search-CUDA
 Linear search method that can be employed on CUDA-enabled GPUs.
 
 You can change the number of items in the array by altering value of variable `N` and to change which number to find, you can alter the member of `struct SearchConfiguration` for host.
